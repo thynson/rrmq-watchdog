@@ -1,0 +1,15 @@
+{
+  "name": "rrmq-watchdog",
+  "version": "1.1.0",
+  "description": "RRMQ Watchdog daemon",
+  "main": "index.js",
+  "author": "LAN Xingcan <lanxingcan@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "rrmq-watchdog": "./rrmq-watchdog"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "rrmq": "^0.2.0"
+  }
+}
