@@ -1,6 +1,6 @@
 {
   "name": "rrmq-watchdog",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "RRMQ Watchdog daemon",
   "main": "index.js",
   "author": "LAN Xingcan <lanxingcan@gmail.com>",
